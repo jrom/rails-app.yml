@@ -1,6 +1,6 @@
-# railsconfig.rb
+# rails-app.yml.rb
 # by Jordi Romero (jrom)
-# http://github.com/jrom/railsconfig
+# http://github.com/jrom/rails-app.yml
 
 # Now, go read the README.md
 

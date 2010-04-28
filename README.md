@@ -10,8 +10,8 @@ The config file name must be alphanumeric with underscores. If an invalid file n
 
 In a brand new Rails app:
 
-    rails <app> -m http://github.com/jrom/railsconfig/raw/master/railsconfig.rb
+    rails <app> -m http://github.com/jrom/rails-app.yml/raw/master/rails-app.yml.rb
 
 In a existent Rails app:
 
-    rake rails:template LOCATION=http://github.com/jrom/railsconfig/raw/master/railsconfig.rb
+    rake rails:template LOCATION=http://github.com/jrom/rails-app.yml/raw/master/rails-app.yml.rb
